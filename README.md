@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinnie!
-- 👀 I’m interested in any and all types of coding! Also intreseted in learning UI designing, and I love cars...
+- 👀 I’m interested in any and all types of coding! Also interested in learning UI designing, and I love cars...
 - 🌱 I’m currently learning to be a Full-Stack Web Developer
 - 📫 Reach me by email: vinnie.walshyt@gmail.com
 
